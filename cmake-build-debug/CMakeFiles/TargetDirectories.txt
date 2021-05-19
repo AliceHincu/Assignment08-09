@@ -1,0 +1,3 @@
+C:/Users/Sakura/Documents/GitHub/FP/a89-913AliceHincu/cmake-build-debug/CMakeFiles/a89_913AliceHincu.dir
+C:/Users/Sakura/Documents/GitHub/FP/a89-913AliceHincu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sakura/Documents/GitHub/FP/a89-913AliceHincu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
